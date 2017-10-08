@@ -1,0 +1,6 @@
+
+public class ThreadDemo extends Thread{
+	public ThreadDemo() {
+		System.out.println("this is threadDemo");
+	}
+}
