@@ -1,3 +1,0 @@
-INDEX VERSION 1.126
-F:\JavaNode\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2132446562.index
-\Long\src
